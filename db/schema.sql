@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS petbook2_db;
+
+CREATE DATABASE petbook2_db;
